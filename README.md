@@ -1,11 +1,13 @@
 # QRTool NoCode App
 
-![QRTool App Fitur1](/assets/image1.png)
-![QRTool App Fitur2](/assets/image2.png)
-
 QRTool adalah aplikasi sederhana yang dibuat menggunakan Kodular. Aplikasi ini memungkinkan pengguna untuk menghasilkan dan memindai kode QR dengan mudah dan cepat.
 
 ## Fitur
+
+<div align="center">
+    <img src="/assets/images1.png" alt="QRTool App Fitur1" width="300" />
+    <img src="/assets/images2.png" alt="QRTool App Fitur2" width="300" />
+</div>
 
 ### 1. Generate QR Code
 
@@ -44,4 +46,5 @@ Fitur ini memungkinkan pengguna untuk memindai kode QR yang ada menggunakan kame
 QRTool adalah perangkat lunak sumber terbuka yang dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT).
 
 ---
+
 Dibuat dengan 💙 oleh Rifki Rahmattullah
