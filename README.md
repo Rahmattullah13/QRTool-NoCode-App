@@ -25,9 +25,9 @@ Fitur ini memungkinkan pengguna untuk memindai kode QR yang ada menggunakan kame
 
 ## Penggunaan File .aia
 
-- Login ke website [Kodular](https://creator.kodular.io/).
-- Lalu import file QRTool.aia untuk melihat block code-nya.
-- Untuk meng-test aplikasi bisa download aplikasi Kodular Companion di Play Store.
+1. Login ke website [Kodular](https://creator.kodular.io/).
+2. Lalu import file QRTool.aia untuk melihat block code-nya.
+3. Untuk mengetes aplikasi bisa download aplikasi Kodular Companion di Play Store.
 
 ## Cara Penggunaan
 
