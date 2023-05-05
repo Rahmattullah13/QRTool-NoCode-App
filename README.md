@@ -23,6 +23,12 @@ Fitur ini memungkinkan pengguna untuk memindai kode QR yang ada menggunakan kame
 2. Pasang APK pada perangkat Android Anda.
 3. Buka aplikasi QRTool.
 
+## Penggunaan File .aia
+
+- Login ke website [Kodular](https://creator.kodular.io/).
+- Lalu import file QRTool.aia untuk melihat block code-nya.
+- Untuk meng-test aplikasi bisa download aplikasi Kodular Companion di Play Store.
+
 ## Cara Penggunaan
 
 ### Generate QR Code
@@ -40,11 +46,6 @@ Fitur ini memungkinkan pengguna untuk memindai kode QR yang ada menggunakan kame
 3. Arahkan kamera ponsel Anda ke kode QR yang ingin Anda pindai.
 4. Aplikasi akan secara otomatis memindai dan menampilkan hasilnya.
 5. Jika kode QR berisi URL, Anda dapat mengekliknya untuk membuka tautan di browser bawaan aplikasi.
-
-## Penggunaan File .aia
-
-- Login ke website [Kodular](https://creator.kodular.io/).
-- Lalu import file QRTool.aia untuk melihat block code-nya.
 
 ## Lisensi
 
