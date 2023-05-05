@@ -1,6 +1,7 @@
 # QRTool NoCode App
 
-![QRTool Logo](https://example.com/qrtool_logo.png)
+![QRTool App Fitur1](/assets/image1.png)
+![QRTool App Fitur2](/assets/image2.png)
 
 QRTool adalah aplikasi sederhana yang dibuat menggunakan Kodular. Aplikasi ini memungkinkan pengguna untuk menghasilkan dan memindai kode QR dengan mudah dan cepat.
 
