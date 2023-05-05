@@ -41,6 +41,11 @@ Fitur ini memungkinkan pengguna untuk memindai kode QR yang ada menggunakan kame
 4. Aplikasi akan secara otomatis memindai dan menampilkan hasilnya.
 5. Jika kode QR berisi URL, Anda dapat mengekliknya untuk membuka tautan di browser bawaan aplikasi.
 
+## Penggunaan File .aia
+
+- Login ke website [Kodular](https://creator.kodular.io/).
+- Lalu import file QRTool.aia untuk melihat block code-nya.
+
 ## Lisensi
 
 QRTool adalah perangkat lunak sumber terbuka yang dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT).
